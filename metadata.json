@@ -1,0 +1,6 @@
+{
+  "name": "ThreatTrace AI - Email Threat Detection, GeoLocation & Forensic Intelligence",
+  "description": "AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligence Platform. Multi-layer header autopsy, MTA hop route tracking, and deep phishing detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
